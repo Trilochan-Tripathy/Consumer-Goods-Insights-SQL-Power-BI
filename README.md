@@ -1,7 +1,7 @@
 # Consumer-Goods-Insights-SQL-Power-BI 
 
 # About Company :-
-Atliq Hardware is a prominent computer hardware producer based in India, holding a leading position not only in the Indian market but also in various other countries.
+Atliq Hardware is a prominent computer hardware producer based in India, holding a leading position not only in the Indian market but also in various other countries.
 
 # Tables Overview 📂 :-
 1. dim_customer: contains customer-related data
